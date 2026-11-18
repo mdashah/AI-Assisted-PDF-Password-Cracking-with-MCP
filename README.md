@@ -95,12 +95,6 @@ Password Recovery
 
 AI\-assisted workflow:
 
-graph TD
-    A[Analyst] --> B[Claude Desktop]
-    B --> C[HexStrike MCP]
-    C --> D[JTR / Supporting Tools]
-    D --> E[Password Recovery]
-
 User
 
 ↓
